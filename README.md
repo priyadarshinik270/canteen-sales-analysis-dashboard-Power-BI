@@ -17,6 +17,11 @@ This project focuses on analyzing canteen sales data using Power BI to gain mean
 
 ---
 
+## 📂 Dataset
+
+The dataset contains canteen sales details such as item names, quantity sold, price, and transaction dates.
+
+---
 ## 🛠️ Tools & Technologies
 
 * Power BI
@@ -40,12 +45,6 @@ This project focuses on analyzing canteen sales data using Power BI to gain mean
 * Analyzed peak sales periods
 * Improved stock planning and inventory management
 * Supported data-driven decision making
-
----
-
-## 📂 Dataset
-
-The dataset contains canteen sales details such as item names, quantity sold, price, and transaction dates.
 
 ---
 
