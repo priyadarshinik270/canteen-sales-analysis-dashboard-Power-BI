@@ -2,9 +2,10 @@
 
 # 🍽️ Canteen Sales Analysis Dashboard (Power BI)
 
+
 ## 📌 Project Overview
 
-This project focuses on analyzing canteen sales data using Power BI to gain meaningful business insights. The dashboard provides a clear view of sales trends, item performance, and revenue patterns to support better decision-making.
+This project analyzes canteen sales data using **Power BI** to generate meaningful business insights. The dashboard helps visualize sales performance, identify trends, and support data-driven decision-making for better revenue and inventory management.
 
 ---
 
@@ -13,52 +14,79 @@ This project focuses on analyzing canteen sales data using Power BI to gain mean
 * Analyze daily and monthly sales performance
 * Identify top-selling and low-performing items
 * Track revenue and profit trends
-* Improve inventory and reduce wastage
+* Improve inventory planning and reduce wastage
+* Support business decision-making using data insights
 
 ---
 
 ## 📂 Dataset
 
-The dataset contains canteen sales details such as item names, quantity sold, price, and transaction dates.
+The dataset contains canteen transaction details such as:
+
+* Item Name
+* Quantity Sold
+* Price
+* Total Sales Amount
+* Transaction Date
 
 ---
-## 🛠️ Tools & Technologies
 
-* Power BI
-* Power Query (Data Cleaning & Transformation)
-* DAX (Data Analysis Expressions)
+## 🛠️ Tools & Technologies Used
+
+* **Power BI** – Data visualization and dashboard creation
+* **Power Query** – Data cleaning and transformation
+* **DAX (Data Analysis Expressions)** – Calculations and KPIs
 
 ---
 
-## 📊 Key Features
+## 📊 Dashboard Features
 
-* Interactive dashboard with filters and slicers
-* Visual representation of sales trends
-* KPI metrics (Total Sales, Profit, Quantity Sold)
+* Interactive filters and slicers
+* Sales trend analysis (daily and monthly)
+* KPI cards (Total Sales, Profit, Quantity Sold)
 * Item-wise performance analysis
+* Revenue and trend visualization
 
 ---
 
-## 🔍 Insights Gained
+## 🔍 Key Insights
 
-* Identified high-demand food items
+* Identified most and least popular food items
 * Analyzed peak sales periods
-* Improved stock planning and inventory management
-* Supported data-driven decision making
+* Understood customer purchasing patterns
+* Improved inventory planning decisions
+* Reduced wastage through demand analysis
 
 ---
 
-## 🚀 How to Use
+## 📈 Business Impact
 
-1. Download the `.pbix` file from this repository
-2. Open it using Power BI Desktop
-3. Explore the dashboard using filters and visuals
+* Improves decision-making through sales insights
+* Helps identify high-demand and low-demand items
+* Supports better inventory planning and reduces wastage
+* Tracks revenue trends and performance efficiently
+* Helps optimize menu and pricing strategies
+* Enhances overall operational efficiency
 
 ---
 
-## ✅ Conclusion
+## 🚀 Project Workflow
 
-This project demonstrates the effective use of Power BI to transform raw canteen sales data into meaningful insights. By leveraging data cleaning, visualization, and DAX calculations, the dashboard helps in understanding sales trends and item performance. The insights generated support better decision-making, improve inventory management, and contribute to increased overall revenue.
+* Data Collection (Canteen sales dataset)
+* Data Cleaning using Power Query
+* Data Modeling in Power BI
+* KPI Creation using DAX
+* Dashboard Design and Visualization
+* Insight Generation and Analysis
+
+---
+
+## 📌 Conclusion
+
+This project demonstrates how Power BI can transform raw canteen sales data into actionable insights. The dashboard supports better decision-making, improves inventory management, and helps increase overall business performance through data-driven analysis.
+
+
+
 
 
 
