@@ -21,7 +21,7 @@ This project analyzes canteen sales data using **Power BI** to generate meaningf
 
 ## 📂 Dataset (Data Source)
 
-The dataset contains canteen transaction details such as:
+The dataset from EXCEL that contains canteen transaction details such as:
 
 * Item Name
 * Quantity Sold
